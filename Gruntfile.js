@@ -56,3 +56,6 @@
 // 5. Task for "Travis CI", using ".travis.yml" from root, and
 // ----------------------------------------------------------------------------
 // 6. Task for "Releases", using "grunt-bump" from master branch.
+
+/* Invoking strict mode. */
+"use strict";
