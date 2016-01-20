@@ -47,3 +47,4 @@ line_comments   = true
 
 # Usage: $ compass version
 # Usage: $ compass compile
+# Usage: $ compass watch
