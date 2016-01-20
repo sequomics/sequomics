@@ -54,3 +54,5 @@
 // 3. Task for "Clean files and folders",
 // 4. Task for "Assemble": Default,
 // 5. Task for "Travis CI", using ".travis.yml" from root, and
+// ----------------------------------------------------------------------------
+// 6. Task for "Releases", using "grunt-bump" from master branch.
