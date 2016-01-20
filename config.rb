@@ -38,3 +38,9 @@ relative_assets = true
 # To disable debugging comments that display the original location of the selectors:
 # options: true || false
 line_comments   = true
+
+# Preference for the indented syntax, to regenerate this project again,
+# Pass: --syntax sass, or uncomment this:
+# preferred_syntax = :sass
+# and then run:
+# sass-convert -R --from scss --to sass sass scss && rm -rf sass && mv scss sass
