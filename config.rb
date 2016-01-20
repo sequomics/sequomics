@@ -31,3 +31,6 @@ javascripts_dir = "source/core/javascripts"
 # Preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
 output_style    = :expanded
+
+# To enable relative paths to assets via compass helper functions:
+relative_assets = true
