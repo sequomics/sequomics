@@ -25,3 +25,4 @@
 
 // # Usage: $ node -v
 // # Usage: $ npm -v
+// # Usage: $ karma --version
