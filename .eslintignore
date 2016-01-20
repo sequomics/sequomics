@@ -1,0 +1,11 @@
+# node_modules ignored by default [node_modules/**].
+
+# Ignore files compiled from TypeScript and CoffeeScript
+**/*.{ts,coffee}.js
+
+# Ignore built files except "build/en/assets/script/init.js"
+build/
+build/**
+!build/en/assets/script/init.js
+
+# Note: to omit all JavaScript files [**/*.js]
