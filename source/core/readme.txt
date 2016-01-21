@@ -56,3 +56,9 @@ sequomics/source/core/
 │       │   │   └── index.html
 │       │   └── service/
 │       │       └── index.html
+│       ├── assets/audios/*.mp3
+│       ├── assets/fonts/*.ttf
+│       ├── assets/images/*.png
+│       ├── assets/images/*.jpg
+│       ├── assets/style/*.css
+│       └── assets/script/*.js
