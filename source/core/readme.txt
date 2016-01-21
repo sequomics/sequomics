@@ -44,3 +44,15 @@ sequomics/source/core/
 │       │   ├── colophon.html
 │       │   ├── credits.html
 │       │   └── index.html
+│       │   ├── company/
+│       │   │   └── index.html
+│       │   ├── individual/
+│       │   │   └── index.html
+│       │   ├── license/
+│       │   │   └── index.html
+│       │   ├── policy/
+│       │   │   └── index.html
+│       │   ├── security/
+│       │   │   └── index.html
+│       │   └── service/
+│       │       └── index.html
