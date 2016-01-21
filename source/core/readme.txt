@@ -35,3 +35,6 @@ sequomics/source/core/
 │       │   └── jobs/
 │       │       ├── apply.html
 │       │       └── index.html
+│       ├── buy/
+│       │   ├── checkout.html
+│       │   └── index.html
