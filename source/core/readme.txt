@@ -30,3 +30,8 @@ sequomics/source/core/
 │       ├── team.html
 │       ├── technology.html
 │       ├── wwwo.html
+│       ├── boards/
+│       │   ├── index.html
+│       │   └── jobs/
+│       │       ├── apply.html
+│       │       └── index.html
