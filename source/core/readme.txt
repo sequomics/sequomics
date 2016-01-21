@@ -38,3 +38,5 @@ sequomics/source/core/
 │       ├── buy/
 │       │   ├── checkout.html
 │       │   └── index.html
+│       ├── help/
+│       │   └── index.html
