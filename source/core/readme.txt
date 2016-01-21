@@ -62,3 +62,8 @@ sequomics/source/core/
 │       ├── assets/images/*.jpg
 │       ├── assets/style/*.css
 │       └── assets/script/*.js
+├── haml/
+│   ├── _body.html.haml
+│   ├── _error.html.haml
+│   ├── _include.html.haml
+│   └── index.html.haml
