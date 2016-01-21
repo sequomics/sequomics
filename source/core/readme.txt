@@ -18,3 +18,15 @@ sequomics/source/core/
 │   ├── 503.html
 │   ├── robots.txt
 │   └── .htaccess
+│   ├── en/
+│       ├── about.html
+│       ├── algorithms.html
+│       ├── contact.html
+│       ├── engineering.html
+│       ├── hello.html
+│       ├── index.html
+│       ├── products.html
+│       ├── services.html
+│       ├── team.html
+│       ├── technology.html
+│       ├── wwwo.html
