@@ -40,3 +40,7 @@ sequomics/source/core/
 │       │   └── index.html
 │       ├── help/
 │       │   └── index.html
+│       ├── legal/
+│       │   ├── colophon.html
+│       │   ├── credits.html
+│       │   └── index.html
