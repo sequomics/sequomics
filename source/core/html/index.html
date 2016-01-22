@@ -56,3 +56,25 @@
     <link rel="apple-touch-startup-image" href="startup-image.png">
     <link rel="next" href="http://sequomics.com/en/index.html">
     <link rel="canonical" href="http://sequomics.com/en/index.html">
+    <script type="text/javascript">
+    //- A typical mobile-optimized viewport fix.
+    (function () {
+      if (window.screen.width) {
+        var setViewport = {
+          phone: 'width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no',
+          other: 'width=1024,user-scalable=yes',
+          widthDevice: window.screen.width,
+          widthMin: 767,
+          setMeta: function () {
+            var params = (this.widthDevice <= this.widthMin) ? this.phone : this.other;
+            var head = document.getElementsByTagName("head")[0];
+            var viewport = document.createElement('meta');
+                viewport.setAttribute('name', 'viewport');
+                viewport.setAttribute('content', params);
+                head.appendChild(viewport);
+            }
+        }
+        setViewport.setMeta();
+      }
+    }).call(this);
+    </script>
